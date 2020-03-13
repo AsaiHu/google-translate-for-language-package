@@ -1,2 +1,3 @@
-# google-translate-for-language-package
-针对语言包的谷歌翻译脚本，执行脚本自动翻译语言包文件
+执行node index进行翻译
+把要翻译的语言包放在locale里
+相关参数可在index.js文件顶部进行修改
